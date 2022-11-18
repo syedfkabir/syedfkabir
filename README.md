@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedfkabir
+- 👋 Hi, I’m Syed 
 - 👀 I’m interested in building useful APIs.
 - 🌱 I’m currently learning data structure & algorithims + how to create a complete project.
 - 💞️ I’m looking to collaborate on practical open source code!
